@@ -51,6 +51,6 @@ class ContaBancaria{
         conta.mostrarDadosConta();
 
 
-
+scanner.close();
     }
 }
